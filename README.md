@@ -46,9 +46,9 @@
 
 ## 🔗 Полезно
 
-+ ER-диаграмма
++ [ER-диаграмма](1C_Yacht_Order_Management_System/ER_diagram/ER_diagram.pdf)
 
-+ Описание задания
++ [Описание задания](1C_Yacht_Order_Management_System/Documentation/Internship_Work.pdf)
 
 ## 💡 Примечание
 
